@@ -1,5 +1,8 @@
 # Project-Exploring-Free-to-Paid-Conversion-in-SQL-and-Python
  In this project, I explore the free-to-paid conversion trends among students who’ve engaged with video content on the 365 platform.
+<p align="center">
+<img width="426" height="431" alt="erd" src="https://github.com/user-attachments/assets/52776e58-6c82-488a-bf4d-8dacdeceb45e" />
+</p>
 
 ## Key Insights
 - The Free-To-Paid conversion rate is 11% which is higher than the industry average for freemium
